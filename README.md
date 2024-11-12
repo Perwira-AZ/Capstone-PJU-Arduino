@@ -1,7 +1,9 @@
-
 # Capstone Smart PJU
 
-Smart PJU merupakan sistem lampu Penerangan Jalan Umum yang dapat dikendalikan dan dimonitor dari jarak jauh. Sistem ini menitikberatkan pada penggunaan metode komunikasi jarak jauh menggunakan LoRa dan deteksi kerusakan lampu menggunakan LDR. Pada sistem ini, terdapat hardware berupa mikrokontroler yang terbagi menjadi empat jenis:
+Smart PJU merupakan sistem lampu Penerangan Jalan Umum yang dapat dikendalikan dan dimonitor dari jarak jauh. Sistem ini menitikberatkan pada penggunaan metode komunikasi jarak jauh menggunakan LoRa dan deteksi kerusakan lampu menggunakan LDR. Pada sistem ini, terdapat hardware berupa mikrokontroler yang terbagi menjadi empat jenis.
+
+<img src="https://github.com/Perwira-AZ/Capstone-PJU-Arduino/blob/main/image/Perancangan%20Umum%20Sistem.jpg" alt="Perancangan Umum Sistem" style="width:50%;">
+<img src="https://github.com/Perwira-AZ/Capstone-PJU-Arduino/blob/main/image/Communication.png" alt="Metode Komunikasi" style="width:50%;">
 
 ## Controller
 
